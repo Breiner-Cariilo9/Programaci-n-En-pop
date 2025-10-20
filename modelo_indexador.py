@@ -1,5 +1,4 @@
 class Indexador:
-  # clases
     def actualiza_almacen_metodo(self):
         print("Actualizando almacén...")
         return "Almacén actualizado correctamente"
